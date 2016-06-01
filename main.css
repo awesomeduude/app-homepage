@@ -1,0 +1,44 @@
+body{
+    position: relative;
+}
+.jumbotron{
+
+    position: relative;
+    background: #000 url("clouds.jpeg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 50px;
+
+}
+#email{
+    width: 300px;
+}
+.container{
+    text-align: center;
+}
+.card-img-top{
+    width: 100%;
+}
+#download{
+
+    background-color: aqua;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+}
+#download img{
+
+    width: 250px;
+
+}
+h4 i{
+
+    margin-right: 5px;
+
+}
